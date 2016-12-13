@@ -5,7 +5,7 @@ function ContactController() {
   vm.phone = '01234567891'
 
   vm.changeName = function() {
-    vm.name = 'Babes';
+    vm.name = 'Christian Whitesides';
   }
 }
 
